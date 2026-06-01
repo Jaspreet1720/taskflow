@@ -125,5 +125,5 @@ Frontend runs on `http://localhost:3000`
 ## Author
 
 **Jaspreet Aujla**
-- LinkedIn: [linkedin.com/in/jaspreet-aujla](https://linkedin.com/in/jaspreet-aujla)
+- LinkedIn: https://www.linkedin.com/in/jaspreet-aujla-b23182218/
 - Email: jsaujla17@gmail.com
